@@ -8,16 +8,17 @@
     "summary": "Developed an AI-powered log analysis tool to diagnose job failures, optimized log processing, and built a threat detection system to analyze transactions in Azure Storage accounts.",
     "skills": [
       "Python",
-      "Azure ML Studio",
-      "Synapse Analytics",
-      "Cloud Security",
-      "Azure Storage",
-      "DevOps"
+      "Java",
+      "Spring Boot",
+      "React.js",
+      "Azure",
+      "AWS",
+      "Vertex AI"
     ],
     "jobDescription": [
-      "Engineered a scalable AI log analysis tool using Vertex AI and Python, diagnosing job failures and processing 300+ requests daily for cloud-based solutions. ",
-      "Developed a multithreaded grep tool for parallel log search, aggregating and parsing distributed logs to reduce data volume by 70% while ensuring security through log masking.",
-      "Built a threat detection system in Azure ML Studio and Synapse Analytics to monitor 10,000+ daily delete transactions, detecting anomalies with KQL and automating response pipelines."
+      "Developed an internal portal using Java Spring Boot and React.js to allow 2,000+ Developers and QA members to self-provision and modify VMs across Hyper-V, Azure, and AWS platforms.",
+      "Automated VM expiry alerts and cleanup, and introduced real-time team-wise cost dashboards, reducing cloud costs by 30% and improving accountability and resource efficiency.",
+      "Engineered a scalable AI log analysis tool using Vertex AI and Python, diagnosing job failures and processing 300+ requests daily for cloud-based solutions.  "
     ]
   },
   {
